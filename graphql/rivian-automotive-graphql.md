@@ -1,1 +1,0 @@
-# Rivian Automotive GraphQL API
